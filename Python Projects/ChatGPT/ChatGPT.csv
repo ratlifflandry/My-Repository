@@ -1,0 +1,319 @@
+Do you consent?,What is your age?,What is your gender?,Teaching Region?,Teaching experience?,Grade Level?,Subject Area?,Familiarity AI?,Test ChatGPT?,Subject area question?,Grade level question?,Questions asked?,What grade x/100?
+1,32,2,Australasia,6,University,Social Sciences,3,1,Social Sciences,14,numerous,62
+1,37,2,Australasia,12,University,Social Sciences,3,1,Social Sciences,14,forum,50
+1,52,1,Australasia,12,University,Technology,3,1,Technology,13,numerous,75
+1,42,2,Australasia,20,University,Social Sciences,4,1,Social Sciences,14,numerous,NaN
+1,67,2,Australasia,30,University,Social Sciences,2,1,Social Sciences,14,short answer,25
+1,47,1,Australasia,19,University,Life Sciences & Biomedicine,3,1,Life Sciences & Biomedicine,15,short answer,90
+1,42,2,Australasia,20,University,Life Sciences & Biomedicine,3,1,Life Sciences & Biomedicine,14,numerous,80
+1,32,1,Australasia,4,University,Physical Sciences,4,2,NaN,NaN,NaN,NaN
+1,52,1,Europe,28,University,Social Sciences,4,1,Social Sciences,17,numerous,90
+1,37,2,Europe,14,University,Technology,3,2,NaN,NaN,NaN,NaN
+1,52,2,Australasia,12,University,Social Sciences,4,1,Non-Specific,16,numerous,NaN
+1,52,2,Australasia,6,University,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,37,1,Europe,11,University,Arts & Humanities,4,2,NaN,NaN,NaN,NaN
+1,67,2,Europe,30,University,Social Sciences,4,2,NaN,NaN,NaN,NaN
+1,42,2,Australasia,8,University,Social Sciences,1,2,NaN,NaN,NaN,NaN
+1,27,1,Australasia,6,Secondary,Social Sciences,4,1,Social Sciences,11,short answer,100
+1,57,2,Europe,30,University,Arts & Humanities,4,1,Arts & Humanities,15,essay,53
+1,42,2,Australasia,6,University,Life Sciences & Biomedicine,2,1,Life Sciences & Biomedicine,18,numerous,67
+1,57,2,Australasia,25,University,Social Sciences,4,2,NaN,NaN,NaN,NaN
+1,52,1,Australasia,15,Secondary,Technology,3,1,Technology,9,essay,90
+1,62,1,Australasia,8,Secondary,Technology,4,1,Technology,8,numerous,70
+1,47,1,Australasia,10,Primary,Technology,3,1,Technology,6,short answer,100
+1,27,1,Australasia,7,Secondary,Technology,3,1,Technology,11,short answer,87
+1,57,1,Australasia,17,Secondary,Physical Sciences,3,1,Physical Sciences,11,numerous,90
+1,37,1,Australasia,16,Secondary,Physical Sciences,4,1,Physical Sciences,8,short answer,80
+1,37,1,Australasia,12,Secondary,Technology,3,1,Technology,11,code,90
+1,72,2,Australasia,37,Secondary,Arts & Humanities,3,1,Arts & Humanities,12,essay,70
+1,47,2,Australasia,1,Secondary,Arts & Humanities,3,2,NaN,NaN,NaN,NaN
+1,27,1,Australasia,6,University,Social Sciences,1,2,NaN,NaN,NaN,NaN
+1,32,1,Australasia,6,Secondary,Arts & Humanities,3,1,Arts & Humanities,9,various,70
+1,37,2,Australasia,6,Secondary,Technology,4,1,Technology,11,various,72
+1,52,2,Australasia,25,University,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,42,1,Americas,1,University,Social Sciences,3,1,Physical Sciences,13,short answer,80
+1,32,1,Americas,5,University,Physical Sciences,2,2,NaN,NaN,NaN,NaN
+1,32,1,Americas,8,University,Physical Sciences,2,1,Physical Sciences,15,short answer,60
+1,27,1,Americas,4,Secondary,Arts & Humanities,3,1,Arts & Humanities,13,other,80
+1,37,1,Americas,5,Secondary,Physical Sciences,3,1,Physical Sciences,9,other,90
+1,27,2,Americas,5,University,Arts & Humanities,2,2,NaN,NaN,NaN,NaN
+1,32,1,Americas,4,Secondary,Arts & Humanities,3,1,Arts & Humanities,8,short answer,70
+1,42,2,Australasia,15,University,Social Sciences,3,1,Social Sciences,15,other,60
+1,32,1,Americas,5,Secondary,Physical Sciences,2,1,Physical Sciences,11,non-specific,80
+1,32,2,Americas,6,Secondary,Physical Sciences,3,1,Physical Sciences,12,short answer,90
+1,27,1,Americas,3,Secondary,Arts & Humanities,2,1,Arts & Humanities,10,short answer,70
+1,27,1,Americas,4,Secondary,Arts & Humanities,2,1,Arts & Humanities,8,short answer,85
+1,32,1,Americas,7,Secondary,Physical Sciences,2,1,Physical Sciences,NaN,essay,80
+1,27,1,Americas,3,Secondary,Physical Sciences,2,1,Physical Sciences,13,multiple choice,100
+1,27,2,Americas,3,Primary,Physical Sciences,2,2,NaN,NaN,NaN,NaN
+1,37,1,Americas,7,Secondary,Physical Sciences,2,2,NaN,NaN,NaN,NaN
+1,37,2,Americas,9,Secondary,Physical Sciences,3,1,Physical Sciences,9,non-specific,87
+1,37,2,Americas,8,Secondary,Arts & Humanities,2,1,Arts & Humanities,7,creative writing,95
+1,37,2,Americas,8,Secondary,Physical Sciences,4,1,Physical Sciences,8,short answer,92
+1,32,1,Americas,2,Secondary,Social Sciences,2,2,NaN,NaN,NaN,NaN
+1,37,1,Americas,12,Secondary,Physical Sciences,3,1,Physical Sciences,7,short answer,85
+1,57,1,Australasia,15,University,Social Sciences,3,1,Social Sciences,14,various,60
+1,32,1,Americas,6,University,Social Sciences,3,1,Physical Sciences,14,multiple choice,95
+1,37,1,Americas,8,University,Social Sciences,4,1,Life Sciences & Biomedicine,13,short answer,91
+1,37,1,Americas,7,University,Social Sciences,4,1,Arts & Humanities,13,short answer,93
+1,52,1,Americas,25,University,Non-Specific,2,2,NaN,NaN,NaN,NaN
+1,47,1,Americas,18,Secondary,Physical Sciences,2,2,NaN,NaN,NaN,NaN
+1,42,2,Australasia,20,University,Social Sciences,3,1,Social Sciences,13,short answer,80
+1,57,1,Europe,23,University,Technology,4,1,Technology,14,numerous,95
+1,42,2,Australasia,18,University,Social Sciences,4,1,Social Sciences,15,report,40
+1,52,2,Australasia,13,University,Physical Sciences,4,2,NaN,NaN,NaN,NaN
+1,42,1,Australasia,11,University,Technology,3,2,NaN,NaN,NaN,NaN
+1,52,2,Australasia,34,University,Social Sciences,4,1,Social Sciences,14,various,NaN
+1,62,2,Australasia,35,University,Arts & Humanities,3,1,Social Sciences,17,short answer,57
+1,32,2,Australasia,9,University,Social Sciences,3,1,Social Sciences,14,essay,40
+1,47,2,Australasia,30,University,Arts & Humanities,3,1,Social Sciences,13,short answer,60
+1,42,1,Americas,10,University,Social Sciences,4,1,Social Sciences,NaN,NaN,NaN
+1,42,2,Australasia,22,Secondary,Physical Sciences,2,1,Physical Sciences,9,short answer,60
+1,67,1,Australasia,15,University,Social Sciences,4,2,NaN,NaN,NaN,NaN
+1,47,2,Australasia,15,University,Technology,3,1,Technology,16,numerous,60
+1,52,2,Europe,11,University,Social Sciences,4,1,Social Sciences,14,numerous,40
+1,27,2,Australasia,4,University,Social Sciences,3,1,Social Sciences,11,essay,65
+1,37,1,Australasia,15,Primary,Arts & Humanities,2,2,NaN,NaN,NaN,NaN
+1,57,2,Australasia,15,Primary,Arts & Humanities,3,2,NaN,NaN,NaN,NaN
+1,47,2,Australasia,20,University,Technology,3,1,Technology,18,short answer,80
+1,57,2,Australasia,30,University,Technology,3,2,NaN,NaN,NaN,NaN
+1,42,2,Australasia,19,University,Social Sciences,2,2,NaN,NaN,NaN,NaN
+1,57,4,Europe,10,University,Social Sciences,4,2,NaN,NaN,NaN,NaN
+1,57,2,Americas,10,University,Social Sciences,4,1,Social Sciences,13,lesson-plan,90
+1,37,1,Other,13,University,Social Sciences,3,1,Social Sciences,13,numerous,90
+1,62,2,Americas,20,Secondary,Technology,3,1,Technology,14,summary,75
+1,52,2,Americas,22,University,Arts & Humanities,4,1,Arts & Humanities,14,short answer,85
+1,37,1,Americas,15,University,Life Sciences & Biomedicine,4,2,NaN,NaN,NaN,NaN
+1,47,4,Americas,6,University,Social Sciences,2,2,NaN,NaN,NaN,NaN
+1,57,1,Americas,10,University,Technology,3,1,Technology,13,short answer,70
+1,42,4,Other,16,Secondary,Arts & Humanities,2,2,NaN,NaN,NaN,NaN
+1,32,1,Europe,2,University,Technology,4,1,Non-Specific,NaN,numerous,90
+1,62,2,Americas,7,University,Non-Specific,3,1,Social Sciences,14,essay,85
+1,52,2,Australasia,25,Primary,Arts & Humanities,2,2,NaN,NaN,NaN,NaN
+1,62,1,Americas,10,University,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,52,2,Americas,19,University,Other,4,1,Arts & Humanities,13,essay,80
+1,52,2,Americas,16,University,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,42,2,Americas,17,University,Arts & Humanities,4,1,Arts & Humanities,13,essay,75
+1,57,2,Americas,35,University,Social Sciences,3,1,Social Sciences,14,creative writing,NaN
+1,37,2,Americas,12,University,Life Sciences & Biomedicine,3,2,NaN,NaN,NaN,NaN
+1,57,2,Americas,18,University,Social Sciences,3,1,Social Sciences,18,numerous,70
+1,52,1,Americas,25,University,Arts & Humanities,2,1,Arts & Humanities,13,essay,75
+1,47,2,Australasia,21,University,Technology,3,1,Technology,18,short answer,55
+1,57,2,Australasia,30,University,Social Sciences,3,1,Social Sciences,14,numerous,60
+1,52,2,Australasia,31,Secondary,Social Sciences,3,1,Social Sciences,12,short answer,80
+1,42,1,Australasia,13,Secondary,Technology,3,1,Physical Sciences,8,rubric,80
+1,27,2,Australasia,7,Primary,Technology,4,1,Non-Specific,4,numerous,95
+1,42,2,Australasia,14,Primary,Social Sciences,3,1,Arts & Humanities,5,short answer,100
+1,52,2,Australasia,7,Secondary,Life Sciences & Biomedicine,4,2,NaN,NaN,NaN,NaN
+1,52,2,Australasia,10,Secondary,Arts & Humanities,2,2,NaN,NaN,NaN,NaN
+1,42,2,Australasia,19,Secondary,Technology,3,2,NaN,NaN,NaN,NaN
+1,52,2,Americas,20,University,Physical Sciences,3,1,Physical Sciences,15,essay,75
+1,62,1,Australasia,18,Secondary,Physical Sciences,3,1,Physical Sciences,12,numerous,65
+1,37,2,Americas,15,Secondary,Physical Sciences,4,2,NaN,NaN,NaN,NaN
+1,37,2,Americas,13,University,Arts & Humanities,4,1,Arts & Humanities,15,essay,80
+1,62,4,Americas,20,University,Social Sciences,4,1,Technology,14,essay,89
+1,42,2,Americas,20,University,Social Sciences,4,1,Social Sciences,18,other,75
+1,62,2,Americas,4,University,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,32,1,Americas,10,Secondary,Arts & Humanities,3,2,NaN,NaN,NaN,NaN
+1,47,2,Americas,25,University,Technology,3,2,NaN,NaN,NaN,NaN
+1,47,2,Americas,22,University,Social Sciences,3,1,Social Sciences,18,essay,70
+1,57,2,Americas,25,University,Arts & Humanities,3,1,Arts & Humanities,14,essay,80
+1,42,2,Americas,7,University,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,62,1,Americas,25,University,Social Sciences,3,1,Social Sciences,18,short answer,85
+1,57,1,Americas,34,University,Social Sciences,4,1,Social Sciences,14,other,55
+1,52,2,Americas,22,University,Technology,3,1,Social Sciences,14,essay,90
+1,52,1,Americas,25,University,Social Sciences,4,1,Social Sciences,15,lesson-plan,90
+1,62,2,Americas,40,University,Life Sciences & Biomedicine,3,1,Life Sciences & Biomedicine,15,essay,90
+1,62,2,Americas,42,University,Arts & Humanities,3,1,Arts & Humanities,8,short answer,80
+1,47,2,Americas,20,University,Social Sciences,3,1,Non-Specific,18,numerous,NaN
+1,52,1,Americas,10,University,Technology,4,1,Technology,16,short answer,75
+1,47,2,Australasia,23,Secondary,Arts & Humanities,3,1,Arts & Humanities,10,numerous,62
+1,62,1,Americas,32,University,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,37,2,Americas,6,University,Life Sciences & Biomedicine,2,2,NaN,NaN,NaN,NaN
+1,42,2,Americas,20,University,Arts & Humanities,3,1,Arts & Humanities,14,essay,75
+1,42,2,Americas,8,University,Arts & Humanities,3,1,Arts & Humanities,13,essay,75
+1,47,2,Americas,14,University,Non-Specific,3,1,Social Sciences,13,short answer,90
+1,52,2,Americas,13,University,Technology,4,1,Physical Sciences,18,short answer,30
+1,37,1,Australasia,15,Secondary,Technology,4,1,Technology,11,numerous,70
+1,52,1,Australasia,20,University,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,27,2,Americas,5,University,Social Sciences,3,1,Social Sciences,NaN,essay,30
+1,32,2,Australasia,7,University,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,62,2,Americas,30,University,Physical Sciences,2,2,NaN,NaN,NaN,NaN
+1,47,2,Australasia,27,Secondary,Social Sciences,3,1,Social Sciences,12,report,40
+1,57,2,Australasia,25,Secondary,Arts & Humanities,3,1,Arts & Humanities,12,numerous,60
+1,32,2,Australasia,8,Secondary,Social Sciences,2,1,Social Sciences,9,short answer,100
+1,37,2,Americas,15,University,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,47,2,Americas,20,University,Arts & Humanities,4,1,Arts & Humanities,15,numerous,90
+1,47,2,Americas,16,University,Social Sciences,3,1,Social Sciences,13,short answer,80
+1,52,2,Australasia,20,University,Social Sciences,4,1,Social Sciences,14,numerous,55
+1,57,2,Australasia,33,Secondary,Social Sciences,3,1,Arts & Humanities,9,short answer,90
+1,57,2,Australasia,12,University,Social Sciences,2,2,NaN,NaN,NaN,NaN
+1,27,1,Australasia,5,Secondary,Technology,4,1,Technology,10,short answer,75
+1,37,2,Australasia,16,Secondary,Arts & Humanities,3,1,Arts & Humanities,11,creative writing,30
+1,32,2,Americas,5,University,Technology,4,1,Technology,17,numerous,75
+1,47,1,Americas,17,University,Physical Sciences,3,1,Physical Sciences,13,short answer,75
+1,52,1,Americas,15,University,Social Sciences,4,2,NaN,NaN,NaN,NaN
+1,47,2,Australasia,26,Secondary,Social Sciences,2,2,NaN,NaN,NaN,NaN
+1,47,2,Australasia,20,Primary,Technology,3,2,NaN,NaN,NaN,NaN
+1,47,1,Australasia,20,Secondary,Technology,4,1,Technology,9,code,45
+1,37,1,Australasia,15,Secondary,Technology,3,2,NaN,NaN,NaN,NaN
+1,32,2,Australasia,10,Secondary,Social Sciences,2,2,NaN,NaN,NaN,NaN
+1,42,1,Other,18,University,Technology,3,1,Non-Specific,14,numerous,80
+1,37,2,Other,15,Secondary,Arts & Humanities,4,1,Arts & Humanities,NaN,numerous,80
+1,57,4,Europe,10,University,Technology,4,1,Technology,16,numerous,40
+1,72,2,Other,37,University,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,52,2,Americas,18,University,Arts & Humanities,3,2,NaN,NaN,NaN,NaN
+1,52,1,Americas,25,University,Arts & Humanities,4,1,Non-Specific,14,numerous,92
+1,57,2,Australasia,30,University,Technology,3,1,Technology,13,numerous,55
+1,62,1,Americas,35,University,Social Sciences,4,2,NaN,NaN,NaN,NaN
+1,62,2,Americas,27,University,Arts & Humanities,3,2,NaN,NaN,NaN,NaN
+1,72,2,Americas,20,University,Social Sciences,3,1,Social Sciences,17,forum,60
+1,37,2,Americas,10,University,Social Sciences,4,1,Social Sciences,13,non-specific,85
+1,47,2,Australasia,16,Secondary,Physical Sciences,2,1,Physical Sciences,8,other,90
+1,52,2,Australasia,12,Secondary,Technology,3,1,Technology,11,code,100
+1,37,2,Australasia,16,Secondary,Technology,4,1,Non-Specific,10,numerous,75
+1,67,2,Americas,15,University,Life Sciences & Biomedicine,3,2,NaN,NaN,NaN,NaN
+1,37,2,Australasia,15,Primary,Arts & Humanities,3,2,NaN,NaN,NaN,NaN
+1,52,2,Australasia,18,Secondary,Technology,4,1,Technology,10,short answer,90
+1,42,1,Australasia,15,Secondary,Arts & Humanities,4,1,Arts & Humanities,10,numerous,75
+1,32,1,Americas,5,Secondary,Physical Sciences,2,1,Physical Sciences,7,multiple choice,90
+1,22,2,Americas,2,Primary,Social Sciences,2,2,NaN,NaN,NaN,NaN
+1,32,4,Americas,12,Secondary,Arts & Humanities,2,2,NaN,NaN,NaN,NaN
+1,47,1,Americas,5,Secondary,Physical Sciences,2,1,Arts & Humanities,14,creative writing,85
+1,37,1,Americas,7,University,Physical Sciences,2,1,Physical Sciences,16,other,60
+1,32,1,Other,5,Secondary,Physical Sciences,3,1,Physical Sciences,7,mathematics,30
+1,37,2,Other,3,University,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,52,2,Europe,15,University,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,42,2,Europe,15,University,Arts & Humanities,2,2,NaN,NaN,NaN,NaN
+1,52,1,Europe,13,University,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,52,1,Europe,7,University,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,57,2,Europe,20,University,Arts & Humanities,2,2,NaN,NaN,NaN,NaN
+1,62,1,Europe,35,University,Social Sciences,2,2,NaN,NaN,NaN,NaN
+1,52,2,Europe,30,University,Arts & Humanities,3,2,NaN,NaN,NaN,NaN
+1,57,1,Europe,30,University,Social Sciences,2,2,NaN,NaN,NaN,NaN
+1,47,1,Europe,19,University,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,62,1,Europe,10,University,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,37,2,Europe,9,University,Social Sciences,3,1,Social Sciences,15,numerous,70
+1,47,2,Europe,23,University,Social Sciences,4,1,Social Sciences,15,numerous,75
+1,57,1,Europe,27,University,Technology,4,1,Technology,15,numerous,42
+1,37,1,Europe,5,University,Social Sciences,3,1,Social Sciences,14,essay,62
+1,47,1,Europe,15,University,Social Sciences,3,1,Arts & Humanities,13,essay,75
+1,67,2,Europe,35,University,Arts & Humanities,2,2,NaN,NaN,NaN,NaN
+1,47,2,Europe,13,University,Arts & Humanities,1,2,NaN,NaN,NaN,NaN
+1,42,2,Europe,7,University,Arts & Humanities,3,1,Arts & Humanities,13,short answer,80
+1,57,2,Europe,33,University,Arts & Humanities,3,1,Arts & Humanities,13,numerous,50
+1,57,2,Europe,31,University,Arts & Humanities,2,2,NaN,NaN,NaN,NaN
+1,37,2,Europe,9,University,Social Sciences,3,1,Social Sciences,16,essay,45
+1,47,1,Europe,20,University,Social Sciences,4,2,NaN,NaN,NaN,NaN
+1,52,1,Europe,20,University,Social Sciences,2,2,NaN,NaN,NaN,NaN
+1,52,2,Europe,23,University,Social Sciences,2,2,NaN,NaN,NaN,NaN
+1,62,2,Europe,23,University,Social Sciences,2,2,NaN,NaN,NaN,NaN
+1,42,2,Europe,14,University,Social Sciences,4,1,Social Sciences,14,essay,95
+1,37,1,Americas,8,Secondary,Physical Sciences,2,2,NaN,NaN,NaN,NaN
+1,47,2,Americas,14,University,Life Sciences & Biomedicine,3,1,Life Sciences & Biomedicine,14,numerous,95
+1,37,1,Americas,5,University,Physical Sciences,2,1,Physical Sciences,14,short answer,80
+1,42,1,Europe,4,University,Life Sciences & Biomedicine,2,2,NaN,NaN,NaN,NaN
+1,42,2,Americas,7,Secondary,Physical Sciences,2,1,Physical Sciences,6,multiple choice,87
+1,47,1,Americas,20,University,Social Sciences,4,1,Social Sciences,18,numerous,85
+1,57,1,Americas,8,University,Arts & Humanities,3,1,Arts & Humanities,13,short answer,70
+1,42,2,Europe,10,University,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,62,2,Americas,15,University,Social Sciences,4,1,Social Sciences,15,short answer,92
+1,62,2,Europe,35,University,Social Sciences,2,2,NaN,NaN,NaN,NaN
+1,42,2,Europe,16,University,Arts & Humanities,3,1,Arts & Humanities,14,essay,67
+1,57,2,Europe,7,University,Social Sciences,3,1,Social Sciences,15,essay,75
+1,27,2,Americas,5,University,Arts & Humanities,3,2,NaN,NaN,NaN,NaN
+1,52,2,Europe,20,University,Social Sciences,3,1,Social Sciences,15,essay,50
+1,52,2,Europe,25,University,Social Sciences,3,1,Technology,18,essay,70
+1,57,2,Europe,33,University,Physical Sciences,2,2,NaN,NaN,NaN,NaN
+1,57,2,Europe,38,University,Arts & Humanities,3,1,Arts & Humanities,15,numerous,65
+1,47,1,Europe,10,University,Technology,3,2,NaN,NaN,NaN,NaN
+1,57,1,Europe,29,University,Social Sciences,4,1,Social Sciences,15,numerous,80
+1,37,1,Europe,5,University,Social Sciences,2,2,NaN,NaN,NaN,NaN
+1,57,2,Europe,35,University,Arts & Humanities,2,2,NaN,NaN,NaN,NaN
+1,57,1,Australasia,37,Secondary,Technology,3,2,NaN,NaN,NaN,NaN
+1,47,1,Australasia,23,Secondary,Arts & Humanities,3,1,Arts & Humanities,12,essay,75
+1,57,2,Europe,34,University,Arts & Humanities,1,2,NaN,NaN,NaN,NaN
+1,47,1,Europe,15,University,Arts & Humanities,3,1,Social Sciences,13,essay,68
+1,32,2,Europe,4,University,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,37,1,Europe,10,University,Social Sciences,4,1,Social Sciences,15,essay,60
+1,52,1,Europe,17,University,Social Sciences,2,2,NaN,NaN,NaN,NaN
+1,57,2,Europe,33,University,Arts & Humanities,3,1,Arts & Humanities,13,essay,70
+1,37,2,Australasia,10,Secondary,Arts & Humanities,3,1,Arts & Humanities,12,essay,80
+1,32,2,Americas,6,Secondary,Physical Sciences,2,1,Physical Sciences,7,short answer,80
+1,52,2,Europe,30,University,Arts & Humanities,2,2,NaN,NaN,NaN,NaN
+1,52,2,Australasia,30,Primary,Technology,4,1,Social Sciences,11,essay,70
+1,62,2,Americas,23,Primary,Physical Sciences,3,1,Physical Sciences,4,short answer,85
+1,47,1,Europe,25,University,Arts & Humanities,2,2,NaN,NaN,NaN,NaN
+1,62,1,Europe,14,University,Arts & Humanities,2,2,NaN,NaN,NaN,NaN
+1,52,1,Europe,19,University,Social Sciences,1,2,NaN,NaN,NaN,NaN
+1,52,2,Europe,27,University,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,67,1,Americas,40,University,Life Sciences & Biomedicine,3,1,Life Sciences & Biomedicine,17,numerous,66
+1,42,2,Europe,11,University,Social Sciences,4,1,Social Sciences,14,short answer,60
+1,62,1,Europe,33,University,Social Sciences,2,2,NaN,NaN,NaN,NaN
+1,52,2,Europe,30,University,Technology,3,1,Technology,13,essay,95
+1,47,1,Europe,19,University,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,57,1,Europe,30,University,Social Sciences,2,2,NaN,NaN,NaN,NaN
+1,37,1,Australasia,6,Secondary,Technology,4,1,Technology,10,short answer,90
+1,47,2,Australasia,27,Secondary,Technology,2,2,NaN,NaN,NaN,NaN
+1,37,2,Australasia,8,Secondary,Technology,2,2,NaN,NaN,NaN,NaN
+1,32,1,Australasia,9,Primary,Social Sciences,4,1,Non-Specific,6,numerous,75
+1,52,2,Australasia,15,Secondary,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,57,1,Australasia,34,Secondary,Social Sciences,3,1,Non-Specific,9,essay,40
+1,37,2,Australasia,11,Secondary,Technology,3,2,NaN,NaN,NaN,NaN
+1,67,2,Australasia,40,Secondary,Physical Sciences,2,2,NaN,NaN,NaN,NaN
+1,52,1,Europe,20,University,Technology,4,2,NaN,NaN,NaN,NaN
+1,57,1,Australasia,32,Secondary,Technology,4,1,Arts & Humanities,12,other,80
+1,57,1,Europe,26,University,Social Sciences,2,2,NaN,NaN,NaN,NaN
+1,57,2,Americas,35,University,Arts & Humanities,4,1,Arts & Humanities,14,essay,71
+1,37,2,Americas,14,University,Social Sciences,3,1,Social Sciences,13,short answer,70
+1,47,2,Americas,5,University,Technology,4,1,Social Sciences,18,short answer,70
+1,57,2,Americas,34,University,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,37,2,Americas,5,University,Arts & Humanities,3,2,NaN,NaN,NaN,NaN
+1,27,1,Americas,5,University,Technology,4,1,Technology,13,numerous,65
+1,67,2,Americas,41,University,Life Sciences & Biomedicine,3,1,Life Sciences & Biomedicine,15,short answer,60
+1,62,1,Other,40,University,Life Sciences & Biomedicine,3,1,Life Sciences & Biomedicine,15,multiple choice,80
+1,42,1,Americas,15,University,Social Sciences,4,1,Social Sciences,15,essay,40
+1,42,2,Americas,8,University,Physical Sciences,2,1,Physical Sciences,13,mathematics,100
+1,47,2,Americas,12,University,Social Sciences,4,1,Social Sciences,14,short answer,NaN
+1,62,2,Americas,20,University,Social Sciences,3,1,Social Sciences,13,essay,90
+1,32,2,Americas,12,University,Arts & Humanities,3,2,NaN,NaN,NaN,NaN
+1,52,2,Americas,22,University,Arts & Humanities,3,1,Arts & Humanities,13,essay,82
+1,22,2,Americas,1,Primary,Social Sciences,2,2,NaN,NaN,NaN,NaN
+1,52,2,Americas,19,University,Technology,2,2,NaN,NaN,NaN,NaN
+1,62,2,Americas,3,University,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,42,1,Australasia,20,Secondary,Physical Sciences,4,1,Arts & Humanities,7,numerous,75
+1,52,1,Americas,17,University,Arts & Humanities,3,1,Arts & Humanities,14,numerous,80
+1,42,1,Australasia,15,Secondary,Technology,4,1,Technology,12,essay,70
+1,37,1,Americas,15,University,Social Sciences,4,1,Non-Specific,13,numerous,55
+1,52,1,Europe,4,University,Social Sciences,3,1,Social Sciences,14,essay,65
+1,47,2,Americas,15,University,Technology,3,2,NaN,NaN,NaN,NaN
+1,47,2,Americas,20,University,Technology,2,2,NaN,NaN,NaN,NaN
+1,47,2,Americas,15,University,Social Sciences,2,2,NaN,NaN,NaN,NaN
+1,47,2,Americas,26,University,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,42,2,Americas,15,University,Arts & Humanities,3,1,Arts & Humanities,13,essay,80
+1,52,2,Americas,20,University,Technology,3,2,NaN,NaN,NaN,NaN
+1,47,1,Americas,20,University,Physical Sciences,4,1,Physical Sciences,13,numerous,60
+1,57,1,Americas,31,University,Social Sciences,4,1,Social Sciences,17,forum,90
+1,32,2,Americas,7,University,Arts & Humanities,4,2,NaN,NaN,NaN,NaN
+1,57,2,Australasia,10,University,Technology,2,2,NaN,NaN,NaN,NaN
+1,47,2,Australasia,24,Secondary,Physical Sciences,3,1,Physical Sciences,11,numerous,70
+1,62,1,Australasia,36,Secondary,Physical Sciences,2,1,Physical Sciences,12,essay,45
+1,52,2,Americas,20,University,Social Sciences,4,1,Social Sciences,13,numerous,75
+1,52,2,Europe,25,University,Technology,4,1,Technology,14,other,90
+1,52,1,Europe,26,University,Social Sciences,3,1,Social Sciences,14,essay,80
+1,57,1,Americas,40,University,Arts & Humanities,3,1,Arts & Humanities,14,short answer,80
+1,57,1,Australasia,33,Secondary,Arts & Humanities,2,1,Arts & Humanities,12,essay,62
+1,42,1,Other,15,University,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,52,2,Australasia,10,University,Technology,4,1,Technology,16,numerous,60
+1,37,2,Europe,8,University,Social Sciences,2,2,NaN,NaN,NaN,NaN
+1,57,2,Americas,20,University,Social Sciences,2,2,NaN,NaN,NaN,NaN
+1,42,2,Other,20,Secondary,Technology,3,2,NaN,NaN,NaN,NaN
+1,42,1,Other,10,University,Non-Specific,4,2,NaN,NaN,NaN,NaN
+1,52,1,Other,20,University,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,47,1,Other,26,University,Arts & Humanities,4,1,Arts & Humanities,18,essay,NaN
+1,42,1,Other,12,University,Social Sciences,3,1,Social Sciences,14,essay,70
+1,57,2,Americas,20,University,Social Sciences,3,1,Social Sciences,17,forum,75
+1,47,1,Other,23,Secondary,Technology,3,1,Technology,11,numerous,70
+1,42,1,Other,14,University,Social Sciences,3,2,NaN,NaN,NaN,NaN
+1,57,1,Other,26,University,Arts & Humanities,4,1,Social Sciences,18,essay,80
+1,52,1,Australasia,24,Secondary,Arts & Humanities,3,1,Arts & Humanities,11,numerous,70

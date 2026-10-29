@@ -1,0 +1,26 @@
+customer_id,first_name,last_name,date_of_birth,age,phone,email,address,customer_notes
+1,John,Doe,2001-03-15,25.19,214-555-0191,john1@email.com,Dallas TX,No onions
+2,Jane,Smith,1996-07-22,29.84,972-555-0148,jane2@email.com,Plano TX,Extra spicy
+3,Mike,Brown,2004-01-10,22.37,469-555-0173,mike3@email.com,Frisco TX,Allergic to nuts
+4,Sara,Lee,1998-11-05,27.55,214-555-0136,sara4@email.com,McKinney TX,No dairy
+5,Tom,White,1991-06-18,34.94,972-555-0182,tom5@email.com,Allen TX,Gluten free
+6,Ava,Green,1999-09-30,26.65,469-555-0119,ava6@email.com,Dallas TX,No sugar
+7,Liam,Black,1986-02-14,40.28,214-555-0164,liam7@email.com,Plano TX,Extra sauce
+8,Emma,Gray,1993-12-08,32.46,972-555-0127,emma8@email.com,Frisco TX,No salt
+9,Noah,Adams,1997-04-25,29.08,469-555-0155,noah9@email.com,McKinney TX,Vegetarian
+10,Olivia,Clark,2000-08-19,25.76,214-555-0189,olivia10@email.com,Allen TX,No peppers
+11,Ethan,Lewis,1992-05-11,34.04,972-555-0196,ethan11@email.com,Dallas TX,Mild spice
+12,Mia,Walker,2002-10-03,23.64,469-555-0142,mia12@email.com,Plano TX,No onions
+13,Lucas,Hall,1994-01-27,32.33,214-555-0178,lucas13@email.com,Frisco TX,Extra cheese
+14,Zoe,Allen,1999-07-14,26.86,972-555-0133,zoe14@email.com,McKinney TX,No beef
+15,Leo,Young,1988-03-09,38.22,469-555-0169,leo15@email.com,Allen TX,Low salt
+16,Lily,King,2003-06-21,22.92,214-555-0115,lily16@email.com,Dallas TX,No dairy
+17,Henry,Wright,1990-11-30,35.49,972-555-0157,henry17@email.com,Plano TX,Extra crispy
+18,Chloe,Scott,1997-02-17,29.27,469-555-0184,chloe18@email.com,Frisco TX,No nuts
+19,Jack,Green,1985-09-12,40.71,214-555-0198,jack19@email.com,McKinney TX,Spicy
+20,Ella,Baker,1999-04-06,27.13,972-555-0123,ella20@email.com,Allen TX,No sauce
+21,David,Hill,1992-08-28,33.74,469-555-0176,david21@email.com,Dallas TX,Gluten free
+22,Sophia,Carter,2001-12-01,24.48,214-555-0149,sophia22@email.com,Plano TX,No sugar
+23,James,Mitchell,1996-03-16,30.19,972-555-0118,james23@email.com,Frisco TX,Extra cheese
+24,Isabella,Perez,1998-10-09,27.62,469-555-0139,isabella24@email.com,McKinney TX,Vegetarian
+25,Benjamin,Roberts,1989-05-23,37.01,214-555-0161,ben25@email.com,Allen TX,No dairy
