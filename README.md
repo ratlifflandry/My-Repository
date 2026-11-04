@@ -1,5 +1,5 @@
 My Python Repository
-I’m creating this GitHub repository to organize my Python projects, track my progress, and make my work easy to revisit and share. My collection includes a scientific calculator, mathematical graphs, Snake, Tic Tac Toe, and data analysis projects about hurricanes, tornadoes, Lionel Messi, and the Titanic.
+I’m creating this GitHub repository to organize my Python projects, track my progress, and make my work easy to revisit and share. My collection includes a scientific calculator, mathematical graphs, Snake, PacMan, and data analysis projects about hurricanes, tornadoes, Lionel Messi, and the Titanic.
 
 I’ll organize the repository into programming and data analysis folders for programming, mathematics, games, weather, soccer, and running. Related datasets and reports will stay with their scripts. Each item will include metadata such as its title, description, creator or source, date, file path, and requirements.
 
